@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/johnlindquist/use-gsap#readme",
   "dependencies": {
-    "gsap": "^2.1.2"
+    "gsap": "^3.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.4.3",
